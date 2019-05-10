@@ -1,0 +1,76 @@
+body{ font-size:12px; font-family: 'Open Sans', "Microsoft YaHei", Verdana, sans-serif; line-height:150%; color:#333; margin:0; padding:0; background:#eeeeee;}
+h1,h2,h3,h4,h5,h6,ul,li,dl,dt,dd,form,img,p,input{margin:0; padding:0; border:none; list-style-type:none;}
+
+/*字体*/
+.f0{ color:#00a2ff;}.f1{ color:#ff4e00;}.f2{ color:#518248;}.f3{ color:#2573A5;}.f4{ color:#7a7a7a;}.f5{ color:#a63333;}.f6{ color:#000;}.f7{ color:#f00;}.f8{color:#fff;}.f14{ font-size:14px;}.f16{ font-size:16px;}.f18{ font-size:18px;}
+
+/*会员级别*/
+.u0,.u1,.u2,.u3,.u4,.u5,.u6,.u7,.u8,.u9,
+.tag1,.tag2,.tag3,.tag4,.tag5,.tag6,.tag7,.tag8,
+.lnk1,.lnk2{ display:inline-block; border-radius:3px; -webkit-border-radius:3px; -moz-border-radius:3px; height:20px; line-height:20px; color:#fff; padding:0 5px; font-weight:normal;}
+
+.u0{background-color: #3A3A3A}
+.u1{background-color: #AACEAC}
+.u2{background-color: #B3C4CC}
+.u3{background-color: #C4B2B0}
+.u4{background-color: #95AACF}
+.u5{background-color: #E6B87A}
+.u6{background-color: #B698D0}
+.u7{background-color: #CAE8F2}
+.u8{background-color: #B600C8}
+.u9{background-color: #f4c900}
+
+.tag1{ background:#28b1e4;}
+.tag2{ background:#f49a6e;}
+.tag3{ background:#529bc0;}
+.tag4{ background:#ababab;}
+.tag5{ background:#f8b5b5;}
+.tag6{ background:#ff9600;}
+.lnk1{ background:#bbcddb; color:#333;}
+
+/*按钮*/
+.btn1,.btn2,.btn3{ display:inline-block; background:#32678c; color:#fff; cursor:pointer; font-weight: normal;}
+.btn1{ height:22px; line-height:22px; padding:0 5px;}
+.btn1:hover{ color:#f0f0f0;}
+.btn2,.btn3{ font-size:14px; font-weight:bold; background:#808080; height:32px; line-height:32px; padding: 0 10px;}
+.btn2:hover{ background:#666; color:#fff;}
+.btn3{ background:#32678c;}
+.btn3:hover{ background:#32678c; color:#fff;}
+.btn4{ height:40px; line-height:40px; background-image:url(../images/pen.png); background-repeat:no-repeat; font-size:16px; font-weight:bold;}
+.btn5{ height:24px; line-height:24px; background-color:#6dbde3; width:113px; text-align:center; color:#fff; display:inline-block; font-size:12px; font-weight:normal;}
+.btn5:hover{ background-color:#44a8d7; color:#fff;}
+
+/*表单*/
+.input-txt{ background:#f8f8f8; padding:0; border:1px solid #515151; height:33px; line-height:33px; padding-left:7px; width:225px;}
+
+/*图文*/
+.fl-img{ float:left; width:57px; overflow:hidden;}
+.fl-info{ float:left; padding-left:15px;}
+
+/*链接*/
+a{ color:#333; text-decoration:none;}
+a:hover{ text-decoration: none; color:#005083;}
+
+
+/*页脚*/
+.footer{ background:#346387; color:#8dcff1; font-size:14px; padding:13px 0 18px 0;}
+.footer a,.footer a:hover{ color:#8dcff1;}
+
+/*标题*/
+h2.it{ background:#115783; height:29px; line-height:29px; font-size:14px; color:#fff; padding-left:9px;}
+h2.it a{ color:#fff; font-weight:normal; margin-left:10px;}
+h2.it a:hover{ text-decoration:underline;}
+
+/*标题样式*/
+h2{ font-size:15px;}
+h3{ font-size:14px;}
+h2 a,h3 a{ color:#2E2E2E;}
+
+/*评分*/
+.has-point li .fl-img{ position:relative; position:relative; overflow:visible;}
+.has-point li .fl-img .point{ display:block; width:44px; height:44px; text-align:center; line-height:44px; background:url(../images/point.png) no-repeat; position:absolute; top:-15px; right:-15px; color:#cd3a00; font-size:18px; font-family:"微软雅黑";}
+.has-point li .fl-img .point em{ font-style:normal; font-size:22px;}
+.has-point li .fl-img .gray{ color:#525252; background-position:0 -44px;}
+
+#tipsMsg{ text-align:center; padding:50px 0; font-size:14px; font-weight:bold;}
+

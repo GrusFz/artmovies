@@ -1,0 +1,48 @@
+
+/*最新资讯*/
+.top-news{ width:49%; height:805px; float: left}
+.top-news ul{ padding:0 12px;}
+.top-news li{ border-bottom:1px solid #DADADA; height:68px; padding:13px 0; overflow:hidden;}
+.top-news li .fl-img{ width:100px; height:56px; overflow:hidden;}
+.top-news li .fl-img img{ width:100%;}
+.top-news li .fl-tag{ float:left; width:36px; padding:0 10px;}
+.top-news li .fl-info{  width:378px; line-height:200%;}
+.top-news li .fl-info p{ line-height:150%; margin:5px 0 0 0;}
+.top-news li .fl-info h3{ line-height:150%;}
+.top-news li .fl-info h3 span{ display:block; font-size:12px; font-weight:normal; color:#000;}
+
+
+
+
+/*最新资讯*/
+.top-news1{ width:49%; height:805px;margin-left: 2%;float: left}
+.top-news1 ul{ padding:0 12px;}
+.top-news1 li{ border-bottom:1px solid #DADADA; height:68px; padding:13px 0; overflow:hidden;}
+.top-news1 li .fl-img{ width:100px; height:56px; overflow:hidden;}
+.top-news1 li .fl-img img{ width:100%;}
+.top-news1 li .fl-tag{ float:left; width:36px; padding:0 10px;}
+.top-news1 li .fl-info{  width:378px; line-height:200%;}
+.top-news1 li .fl-info p{ line-height:150%; margin:5px 0 0 0;}
+.top-news1 li .fl-info h3{ line-height:150%;}
+.top-news1 li .fl-info h3 span{ display:block; font-size:12px; font-weight:normal; color:#000;}
+
+
+
+/*精彩评论*/
+.wonder-comment{ width:452px; height:805px; overflow:hidden;}
+.wonder-comment .commentBox{height:750px;overflow: hidden;}
+.wonder-comment ul{ padding:0 12px;}
+.wonder-comment li{ overflow: hidden; padding:13px 0; border-bottom:1px dotted #c9c9c9;}
+.wonder-comment li .fl-img{ width:46px;}
+.wonder-comment li .fl-img img{ width:46px; height:46px;}
+.wonder-comment li .fl-info{ float:right; width:360px;}
+.wonder-comment li .fl-info h3{ font-size:12px; font-weight:normal;}
+.wonder-comment li .fl-info p{ margin:5px 0; max-height:80px; overflow:hidden;}
+.wonder-comment li .fl-info .ico span{ margin-left:10px;}
+
+/*最新发布*/
+.lastest-release ul{ padding:20px 0 15px 6px;}
+.lastest-release ul li{ float:left; display:inline; margin:0 27px 0 24px; width:96px; text-align:center; overflow:hidden;}
+.lastest-release ul li p{ height:25px; line-height:20px; font-weight:bold; overflow:hidden;}
+.lastest-release ul li a.imglink{ display:inline-block; width:96px; height:123px; overflow:hidden;}
+
